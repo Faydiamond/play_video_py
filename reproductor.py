@@ -11,6 +11,7 @@ height = 0
    
 
 video = int(input(' digite un numero de 1 al 3, cada numero represnta el ejercio de las pruebas:  '))
+#remplace la ruta del video con un archivo en formato mp4 que tenga en su maquina
 if (video == 1):
     vidPath = r"C:\Users\FabiDiamanti\Documents\Fabian\entrevista_python\Hotel\ecomar.mp4"
     height = 720
